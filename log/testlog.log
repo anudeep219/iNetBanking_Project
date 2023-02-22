@@ -1,0 +1,206 @@
+2023-02-17 10:45:04,916 - netbanking_testv1 -INFO - url is opened
+2023-02-17 10:45:05,061 - netbanking_testv1 -INFO - username is set
+2023-02-17 15:09:11,285 - netbanking_testv1 -INFO - url is opened
+2023-02-17 15:09:11,504 - netbanking_testv1 -INFO - username is set
+2023-02-17 15:09:51,860 - netbanking_testv1 -INFO - url is opened
+2023-02-17 15:09:52,246 - netbanking_testv1 -INFO - username is set
+2023-02-17 15:10:38,289 - netbanking_testv1 -INFO - url is opened
+2023-02-17 15:10:38,448 - netbanking_testv1 -INFO - username is set
+2023-02-17 15:10:39,379 - netbanking_testv1 -INFO - login is successful
+2023-02-17 22:11:07,995 - netbanking_testv1 -INFO - url is opened
+2023-02-17 22:11:08,231 - netbanking_testv1 -INFO - username is set
+2023-02-17 22:11:09,235 - netbanking_testv1 -INFO - login is successful
+2023-02-18 12:40:32,787 - netbanking_testv1 -INFO - url is opened
+2023-02-18 12:40:33,104 - netbanking_testv1 -INFO - username is set
+2023-02-18 12:40:34,032 - netbanking_testv1 -INFO - login is successful
+2023-02-18 22:52:07,512 - netbanking_testv1 -INFO - url is opened
+2023-02-18 22:52:07,781 - netbanking_testv1 -INFO - username is set
+2023-02-18 22:53:45,411 - netbanking_testv1 -INFO - url is opened
+2023-02-18 22:53:45,960 - netbanking_testv1 -INFO - username is set
+2023-02-18 22:57:37,993 - netbanking_testv1 -INFO - url is opened
+2023-02-18 22:57:38,218 - netbanking_testv1 -INFO - username is set
+2023-02-18 23:05:08,792 - netbanking_testv1 -INFO - url is opened
+2023-02-18 23:05:09,016 - netbanking_testv1 -INFO - username is set
+2023-02-19 11:38:32,750 - netbanking_testv1 -INFO - url is opened
+2023-02-19 11:38:32,936 - netbanking_testv1 -INFO - username is set
+2023-02-19 16:42:09,364 - netbanking_testv1 -INFO - url is opened
+2023-02-19 16:42:09,605 - netbanking_testv1 -INFO - username is set
+2023-02-19 16:43:53,093 - netbanking_testv1 -INFO - url is opened
+2023-02-19 16:43:53,253 - netbanking_testv1 -INFO - username is set
+2023-02-19 17:58:49,685 - netbanking_testv1 -INFO - url is opened
+2023-02-19 17:58:49,927 - netbanking_testv1 -INFO - username is set
+2023-02-19 18:00:31,362 - netbanking_testv1 -INFO - url is opened
+2023-02-19 18:00:31,565 - netbanking_testv1 -INFO - username is set
+2023-02-19 18:21:17,889 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-19 18:28:32,247 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-19 18:28:33,368 - netbanking_testv1 -INFO - username provided
+2023-02-19 18:28:33,495 - netbanking_testv1 -INFO - password provided
+2023-02-19 18:28:34,221 - netbanking_testv1 -INFO - login passed
+2023-02-19 18:28:34,265 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-19 18:28:34,934 - netbanking_testv1 -INFO - username provided
+2023-02-19 18:28:35,001 - netbanking_testv1 -INFO - password provided
+2023-02-19 18:28:35,764 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-19 18:28:36,408 - netbanking_testv1 -INFO - username provided
+2023-02-19 18:28:36,472 - netbanking_testv1 -INFO - password provided
+2023-02-19 18:28:37,309 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-19 18:28:37,984 - netbanking_testv1 -INFO - username provided
+2023-02-19 18:28:38,099 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:33:19,462 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:33:20,682 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:33:20,977 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:33:21,058 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:33:21,879 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:33:22,076 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:33:22,121 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:33:22,855 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:33:22,960 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:33:23,010 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:33:23,793 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:33:23,893 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:37:42,054 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:37:43,296 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:37:43,379 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:37:48,516 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:37:49,193 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:37:49,298 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:37:54,352 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:37:55,264 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:37:55,394 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:38:00,432 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:38:01,222 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:38:01,305 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:47:02,170 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:47:03,182 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:47:03,355 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:47:08,440 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:47:09,266 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:47:09,360 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:47:14,407 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:47:15,269 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:47:15,391 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:47:20,457 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:47:21,261 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:47:21,349 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:48:46,178 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:48:47,427 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:48:47,545 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:48:52,649 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:48:53,489 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:48:53,610 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:48:58,694 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:48:59,466 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:48:59,568 - netbanking_testv1 -INFO - password provided
+2023-02-20 12:49:04,668 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 12:49:05,653 - netbanking_testv1 -INFO - username provided
+2023-02-20 12:49:05,806 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:23:26,199 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:23:27,495 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:23:27,570 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:23:27,586 - netbanking_testv1 -INFO - login passed
+2023-02-20 19:23:32,753 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:23:33,655 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:23:33,773 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:23:33,789 - netbanking_testv1 -INFO - login passed
+2023-02-20 19:23:38,862 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:23:39,727 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:23:39,855 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:23:39,873 - netbanking_testv1 -INFO - login passed
+2023-02-20 19:23:44,935 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:23:45,973 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:23:46,054 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:23:46,062 - netbanking_testv1 -INFO - login passed
+2023-02-20 19:25:26,066 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:25:27,359 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:25:27,463 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:25:28,195 - netbanking_testv1 -INFO - login passed
+2023-02-20 19:25:29,119 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:25:29,703 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:25:29,787 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:25:30,635 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:25:31,345 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:25:31,432 - netbanking_testv1 -INFO - password provided
+2023-02-20 19:25:32,252 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-20 19:25:32,907 - netbanking_testv1 -INFO - username provided
+2023-02-20 19:25:33,000 - netbanking_testv1 -INFO - password provided
+2023-02-20 21:46:04,034 - netbanking_testv1 -INFO - url is opened
+2023-02-20 21:46:04,402 - netbanking_testv1 -INFO - username is set
+2023-02-20 21:47:22,322 - netbanking_testv1 -INFO - url is opened
+2023-02-20 21:47:22,502 - netbanking_testv1 -INFO - username is set
+2023-02-21 09:49:21,518 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 09:49:22,947 - netbanking_testv1 -INFO - username provided
+2023-02-21 09:49:23,095 - netbanking_testv1 -INFO - password provided
+2023-02-21 09:49:23,730 - netbanking_testv1 -INFO - login passed
+2023-02-21 09:49:24,423 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 09:49:25,184 - netbanking_testv1 -INFO - username provided
+2023-02-21 09:49:25,284 - netbanking_testv1 -INFO - password provided
+2023-02-21 09:49:26,240 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 09:49:27,036 - netbanking_testv1 -INFO - username provided
+2023-02-21 09:49:27,156 - netbanking_testv1 -INFO - password provided
+2023-02-21 09:49:28,083 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 09:49:28,973 - netbanking_testv1 -INFO - username provided
+2023-02-21 09:49:29,113 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:12:27,661 - netbanking_testv1 -INFO - url is opened
+2023-02-21 11:12:27,982 - netbanking_testv1 -INFO - username is set
+2023-02-21 11:15:56,328 - netbanking_testv1 -INFO - url is opened
+2023-02-21 11:15:56,553 - netbanking_testv1 -INFO - username is set
+2023-02-21 11:16:43,481 - netbanking_testv1 -INFO - url is opened
+2023-02-21 11:16:43,723 - netbanking_testv1 -INFO - username is set
+2023-02-21 11:18:11,340 - netbanking_testv1 -INFO - url is opened
+2023-02-21 11:18:11,520 - netbanking_testv1 -INFO - username is set
+2023-02-21 11:18:12,634 - netbanking_testv1 -INFO - login is successful
+2023-02-21 11:23:22,173 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:23:23,631 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:23:23,767 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:23:24,427 - netbanking_testv1 -INFO - login passed
+2023-02-21 11:23:25,095 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:23:25,765 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:23:25,875 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:23:26,762 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:23:27,538 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:23:27,653 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:23:28,581 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:23:29,402 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:23:29,532 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:24:16,421 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:24:17,758 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:24:17,899 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:24:18,747 - netbanking_testv1 -INFO - login passed
+2023-02-21 11:24:19,871 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:24:20,624 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:24:20,732 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:24:21,677 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:24:22,476 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:24:22,587 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:24:23,426 - netbanking_testv1 -INFO - Inside LogindDDT
+2023-02-21 11:24:24,238 - netbanking_testv1 -INFO - username provided
+2023-02-21 11:24:24,314 - netbanking_testv1 -INFO - password provided
+2023-02-21 11:26:02,932 - netbanking_testv1 -INFO - url is opened
+2023-02-21 11:26:03,100 - netbanking_testv1 -INFO - username is set
+2023-02-21 11:26:04,011 - netbanking_testv1 -INFO - login is successful
+2023-02-21 11:28:32,542 - netbanking_testv1 -INFO - url is opened
+2023-02-21 11:28:32,886 - netbanking_testv1 -INFO - username is set
+2023-02-21 11:28:34,074 - netbanking_testv1 -INFO - login is successful
+2023-02-21 11:45:31,459 - netbanking_testv1 -INFO - url is opened
+2023-02-21 11:45:31,628 - netbanking_testv1 -INFO - username is set
+2023-02-21 11:45:32,624 - netbanking_testv1 -INFO - login is successful
+2023-02-21 14:40:18,639 - netbanking_testv1 -INFO - url is opened
+2023-02-21 14:40:18,789 - netbanking_testv1 -INFO - username is set
+2023-02-21 14:40:19,763 - netbanking_testv1 -INFO - login is successful
+2023-02-21 14:41:30,287 - netbanking_testv1 -INFO - url is opened
+2023-02-21 14:41:30,743 - netbanking_testv1 -INFO - username is set
+2023-02-21 14:41:31,653 - netbanking_testv1 -INFO - login is successful
+2023-02-21 14:42:23,576 - netbanking_testv1 -INFO - url is opened
+2023-02-21 14:42:23,798 - netbanking_testv1 -INFO - username is set
+2023-02-21 14:42:24,828 - netbanking_testv1 -INFO - login is successful
+2023-02-21 15:22:07,467 - netbanking_testv1 -INFO - url is opened
+2023-02-21 15:22:07,654 - netbanking_testv1 -INFO - username is set
+2023-02-21 15:22:08,577 - netbanking_testv1 -INFO - login is successful
+2023-02-21 15:59:04,630 - netbanking_testv1 -INFO - url is opened
+2023-02-21 15:59:04,972 - netbanking_testv1 -INFO - username is set
+2023-02-21 15:59:05,978 - netbanking_testv1 -INFO - login is successful
+2023-02-22 13:12:23,610 - netbanking_testv1 -INFO - url is opened
+2023-02-22 13:12:24,771 - netbanking_testv1 -INFO - username is set
+2023-02-22 13:12:42,504 - netbanking_testv1 -INFO - login is successful
+2023-02-22 14:21:15,765 - netbanking_testv1 -INFO - url is opened
+2023-02-22 14:21:20,765 - netbanking_testv1 -INFO - username is set
+2023-02-22 14:21:30,341 - netbanking_testv1 -INFO - login is successful

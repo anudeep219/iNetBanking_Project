@@ -1,0 +1,10 @@
+netbanking_testv1\netbanking_testv1\AppTest.class
+com\netbanktest\testcases\TC3_AddNewCustomer_Test.class
+com\netbanktest\testcases\TC2_Loginpage_Test.class
+com\netbanktest\pageobjects\AddNewCustomerPage.class
+com\netbanktest\testcases\TC1_Loginpage_Test.class
+com\netbanktest\utilities\XLUtils.class
+com\netbanktest\utilities\ReadConfig.class
+com\netbanktest\pageobjects\LoginPage.class
+com\netbanktest\utilities\Reportingconfig.class
+com\netbanktest\testcases\Baseclass.class
